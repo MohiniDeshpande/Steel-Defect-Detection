@@ -14,7 +14,7 @@ The model is trained using a custom dataset with annotated bounding boxes and de
 - `images/`: Directory containing the steel defect images.
 - `label/`: Directory containing XML annotation files with bounding box and class information.
 - `resnet152v2.h5`: The trained model (not included in this repository).
-- `steel_defect_detection.py`: Jupyter notebook for training and testing the model.
+- `steel_defect_detection.py`: Jupyter notebook for training and saving the trained model.
 - `link.txt`: Link to Python script to load the model and perform inference.
 
 ## How to Use
