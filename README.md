@@ -21,7 +21,7 @@ The model is trained using a custom dataset with annotated bounding boxes and de
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/steel-defect-detection.git
+   git clone https://github.com/MohiniDeshpande/steel-defect-detection.git
    
    cd steel-defect-detection
  
