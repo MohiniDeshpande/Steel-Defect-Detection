@@ -43,3 +43,8 @@ Base Model: Pre-trained ResNet152V2 (Frozen for initial training).
 Bounding Box Prediction: Dense layers predicting xmin, ymin, xmax, ymax.
 
 Defect Classification: Dense layers predicting the defect type.
+
+## Model Performance
+The model achieved high accuracy on defect classification and precise bounding box predictions for defect locations.
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/029a8b30-8c7e-427f-a9fe-f3f57912a3d2">
+
