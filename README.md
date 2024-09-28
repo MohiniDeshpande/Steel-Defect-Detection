@@ -34,7 +34,7 @@ To train the model, use the provided Jupyter notebook.
 To run inference, use the [colab link](https://colab.research.google.com/drive/1-Q5jQzuoSq1Bd_pj_wWrUNzi5Yvxh71Y?usp=sharing).
 
 
-##Model Architecture
+## Model Architecture
 The model is based on the ResNet152V2 architecture and is pre-trained on ImageNet. The model has been adapted for object detection (bounding box prediction) and classification of defects.
 
 **Layers:**
